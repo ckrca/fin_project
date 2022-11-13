@@ -1,1 +1,1 @@
-# fin_project
+# Financial analysis project
